@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Ngôn Nhất Hoàn
+=======
+//Nguyễn Văn Hoàn
+>>>>>>> a494d215a47644df0a3c3ad23a83219f6ab0cb9d
 #include <stdio.h>
 #include <iostream>
 
