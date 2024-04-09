@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <iostream>
 
 #define MAX 100
 
